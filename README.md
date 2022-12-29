@@ -2,6 +2,6 @@
 
 12/29/2022:
 
-*Inside the "Mortgage-Calculator-Web-App-Project" folder is the actual project and also a link to a video demonstration.* (NO AUDIO)
+* Inside of each project folder there is a link to a video demonstration and a folder containing the actual project files *
 
-*Inside the "Pizza-Ordering-Web-App-Project" folder is the actual project and also a link to a video demonstration.* (NO AUDIO)
+* Not all video demonstrations have audio *
