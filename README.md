@@ -1,4 +1,5 @@
 # 2020-2022-School-Projects
 
 12/29/2022:
-I have included a txt file with a link to a video demonstration for some of the projects.
+
+*Inside the "Mortgage-Calculator-Web-App-Project" folder is the actual project and also a link to a video demonstration.*
